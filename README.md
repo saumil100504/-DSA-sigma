@@ -15,4 +15,5 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/saumil100504/-DSA-sigma/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
