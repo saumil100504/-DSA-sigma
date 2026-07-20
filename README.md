@@ -11,4 +11,8 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumil100504/-DSA-sigma/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/saumil100504/-DSA-sigma/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
