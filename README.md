@@ -7,6 +7,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumil100504/-DSA-sigma/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -30,4 +31,12 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
