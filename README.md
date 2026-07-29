@@ -24,6 +24,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | ------- |
 | [0007-reverse-integer](https://github.com/saumil100504/-DSA-sigma/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/saumil100504/-DSA-sigma/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/saumil100504/-DSA-sigma/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -58,4 +59,8 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saumil100504/-DSA-sigma/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/saumil100504/-DSA-sigma/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
