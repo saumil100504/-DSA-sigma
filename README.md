@@ -7,6 +7,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumil100504/-DSA-sigma/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saumil100504/-DSA-sigma/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saumil100504/-DSA-sigma/tree/master/0073-set-matrix-zeroes) |
@@ -63,10 +64,23 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saumil100504/-DSA-sigma/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saumil100504/-DSA-sigma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saumil100504/-DSA-sigma/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
