@@ -7,6 +7,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saumil100504/-DSA-sigma/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saumil100504/-DSA-sigma/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
@@ -74,6 +75,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -83,4 +85,8 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
