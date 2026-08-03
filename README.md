@@ -17,6 +17,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0136-single-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0240-search-a-2d-matrix-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/saumil100504/-DSA-sigma/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/saumil100504/-DSA-sigma/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0001-two-sum](https://github.com/saumil100504/-DSA-sigma/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saumil100504/-DSA-sigma/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/saumil100504/-DSA-sigma/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/saumil100504/-DSA-sigma/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -99,4 +101,8 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0151-reverse-words-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/saumil100504/-DSA-sigma/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
