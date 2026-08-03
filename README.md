@@ -14,6 +14,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0073-set-matrix-zeroes](https://github.com/saumil100504/-DSA-sigma/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saumil100504/-DSA-sigma/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/saumil100504/-DSA-sigma/tree/master/2965-find-missing-and-repeated-values) |
@@ -89,4 +90,8 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
