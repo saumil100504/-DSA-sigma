@@ -27,6 +27,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0001-two-sum](https://github.com/saumil100504/-DSA-sigma/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/saumil100504/-DSA-sigma/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/saumil100504/-DSA-sigma/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/saumil100504/-DSA-sigma/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/saumil100504/-DSA-sigma/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -47,6 +48,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saumil100504/-DSA-sigma/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/saumil100504/-DSA-sigma/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/saumil100504/-DSA-sigma/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
