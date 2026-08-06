@@ -71,6 +71,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/saumil100504/-DSA-sigma/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/saumil100504/-DSA-sigma/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0125-valid-palindrome](https://github.com/saumil100504/-DSA-sigma/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/saumil100504/-DSA-sigma/tree/master/0242-valid-anagram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/saumil100504/-DSA-sigma/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
 | ------- |
