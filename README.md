@@ -22,6 +22,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saumil100504/-DSA-sigma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/saumil100504/-DSA-sigma/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saumil100504/-DSA-sigma/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/saumil100504/-DSA-sigma/tree/master/2965-find-missing-and-repeated-values) |
@@ -135,6 +136,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/saumil100504/-DSA-sigma/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/saumil100504/-DSA-sigma/tree/master/0560-subarray-sum-equals-k) |
 ## Quicksort
 |  |
