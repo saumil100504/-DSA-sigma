@@ -103,6 +103,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0088-merge-sorted-array](https://github.com/saumil100504/-DSA-sigma/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saumil100504/-DSA-sigma/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/saumil100504/-DSA-sigma/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -128,6 +129,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0125-valid-palindrome](https://github.com/saumil100504/-DSA-sigma/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/saumil100504/-DSA-sigma/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/saumil100504/-DSA-sigma/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/saumil100504/-DSA-sigma/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
