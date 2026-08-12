@@ -24,6 +24,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/saumil100504/-DSA-sigma/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saumil100504/-DSA-sigma/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/saumil100504/-DSA-sigma/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -82,6 +83,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0088-merge-sorted-array](https://github.com/saumil100504/-DSA-sigma/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saumil100504/-DSA-sigma/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/saumil100504/-DSA-sigma/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -123,6 +126,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0136-single-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -152,4 +156,12 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saumil100504/-DSA-sigma/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0567-permutation-in-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
