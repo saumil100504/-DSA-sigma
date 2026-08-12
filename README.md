@@ -18,6 +18,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0073-set-matrix-zeroes](https://github.com/saumil100504/-DSA-sigma/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saumil100504/-DSA-sigma/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/saumil100504/-DSA-sigma/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/saumil100504/-DSA-sigma/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saumil100504/-DSA-sigma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0136-single-number) |
@@ -71,6 +72,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saumil100504/-DSA-sigma/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/saumil100504/-DSA-sigma/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/saumil100504/-DSA-sigma/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -131,6 +133,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saumil100504/-DSA-sigma/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/saumil100504/-DSA-sigma/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/saumil100504/-DSA-sigma/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/saumil100504/-DSA-sigma/tree/master/0242-valid-anagram) |
@@ -164,4 +167,12 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saumil100504/-DSA-sigma/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saumil100504/-DSA-sigma/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
