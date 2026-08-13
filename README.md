@@ -24,6 +24,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0136-single-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/saumil100504/-DSA-sigma/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/saumil100504/-DSA-sigma/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/saumil100504/-DSA-sigma/tree/master/0560-subarray-sum-equals-k) |
@@ -158,6 +159,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saumil100504/-DSA-sigma/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/saumil100504/-DSA-sigma/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0567-permutation-in-string) |
 ## Pigeonhole Principle
 |  |
@@ -175,4 +177,20 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saumil100504/-DSA-sigma/tree/master/0079-word-search) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saumil100504/-DSA-sigma/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saumil100504/-DSA-sigma/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saumil100504/-DSA-sigma/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/saumil100504/-DSA-sigma/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
