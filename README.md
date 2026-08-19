@@ -13,6 +13,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0018-4sum](https://github.com/saumil100504/-DSA-sigma/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/saumil100504/-DSA-sigma/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saumil100504/-DSA-sigma/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/saumil100504/-DSA-sigma/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
@@ -40,6 +41,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | ------- |
 | [0001-two-sum](https://github.com/saumil100504/-DSA-sigma/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saumil100504/-DSA-sigma/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/saumil100504/-DSA-sigma/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saumil100504/-DSA-sigma/tree/master/0242-valid-anagram) |
@@ -79,6 +81,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saumil100504/-DSA-sigma/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0074-search-a-2d-matrix) |
@@ -187,6 +190,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/saumil100504/-DSA-sigma/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -230,4 +234,12 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/saumil100504/-DSA-sigma/tree/master/0912-sort-an-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
