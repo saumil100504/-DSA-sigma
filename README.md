@@ -15,6 +15,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0033-search-in-rotated-sorted-array](https://github.com/saumil100504/-DSA-sigma/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/saumil100504/-DSA-sigma/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/saumil100504/-DSA-sigma/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saumil100504/-DSA-sigma/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saumil100504/-DSA-sigma/tree/master/0056-merge-intervals) |
@@ -191,6 +192,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/saumil100504/-DSA-sigma/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/saumil100504/-DSA-sigma/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -238,6 +240,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/saumil100504/-DSA-sigma/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
