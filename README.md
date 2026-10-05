@@ -117,6 +117,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | ------- |
 | [0050-powx-n](https://github.com/saumil100504/-DSA-sigma/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0088-merge-sorted-array](https://github.com/saumil100504/-DSA-sigma/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saumil100504/-DSA-sigma/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/saumil100504/-DSA-sigma/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0567-permutation-in-string) |
@@ -138,6 +140,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saumil100504/-DSA-sigma/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saumil100504/-DSA-sigma/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/saumil100504/-DSA-sigma/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -257,5 +260,6 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
