@@ -131,6 +131,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/saumil100504/-DSA-sigma/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -251,4 +252,8 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/saumil100504/-DSA-sigma/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
