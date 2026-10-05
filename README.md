@@ -116,6 +116,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saumil100504/-DSA-sigma/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -255,5 +256,6 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
