@@ -46,6 +46,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0073-set-matrix-zeroes](https://github.com/saumil100504/-DSA-sigma/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/saumil100504/-DSA-sigma/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/saumil100504/-DSA-sigma/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/saumil100504/-DSA-sigma/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saumil100504/-DSA-sigma/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/saumil100504/-DSA-sigma/tree/master/0560-subarray-sum-equals-k) |
@@ -131,6 +132,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0088-merge-sorted-array](https://github.com/saumil100504/-DSA-sigma/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saumil100504/-DSA-sigma/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saumil100504/-DSA-sigma/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/saumil100504/-DSA-sigma/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
@@ -200,6 +202,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saumil100504/-DSA-sigma/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
@@ -263,6 +266,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saumil100504/-DSA-sigma/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0876-middle-of-the-linked-list) |
