@@ -216,6 +216,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saumil100504/-DSA-sigma/tree/master/0079-word-search) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -271,5 +272,10 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 | [0142-linked-list-cycle-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0876-middle-of-the-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
