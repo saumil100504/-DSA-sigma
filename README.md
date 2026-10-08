@@ -269,6 +269,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saumil100504/-DSA-sigma/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/saumil100504/-DSA-sigma/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/saumil100504/-DSA-sigma/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0142-linked-list-cycle-ii) |
