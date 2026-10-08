@@ -56,6 +56,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saumil100504/-DSA-sigma/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saumil100504/-DSA-sigma/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saumil100504/-DSA-sigma/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/saumil100504/-DSA-sigma/tree/master/0050-powx-n) |
@@ -118,6 +119,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saumil100504/-DSA-sigma/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saumil100504/-DSA-sigma/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/saumil100504/-DSA-sigma/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/saumil100504/-DSA-sigma/tree/master/0206-reverse-linked-list) |
@@ -268,6 +270,7 @@ A repository dedicated to mastering Data Structures and Algorithms through consi
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saumil100504/-DSA-sigma/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saumil100504/-DSA-sigma/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/saumil100504/-DSA-sigma/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/saumil100504/-DSA-sigma/tree/master/0138-copy-list-with-random-pointer) |
